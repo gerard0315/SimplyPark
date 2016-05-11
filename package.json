@@ -1,0 +1,23 @@
+{
+  "name": "SimplyPark",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^2.4.2",
+    "react": "^0.14.8",
+    "react-native": "^0.24.0",
+    "react-native-button": "^1.4.2",
+    "react-native-custom-navigation": "^0.2.2",
+    "react-native-datetime": "^0.1.1",
+    "react-native-drawer": "^2.0.0",
+    "react-native-facebook-login": "^1.0.3",
+    "react-native-location": "^0.14.3",
+    "react-native-maps": "^0.3.2",
+    "react-native-navigation-drawer": "^1.2.2",
+    "react-native-router-flux": "^3.24.0",
+    "react-native-search-bar": "^2.10.0"
+  }
+}
